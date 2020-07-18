@@ -1,0 +1,9 @@
+Confusion regarding which Fuel Oil is most similar to DMC in Oil 101
+Hi Mr. Downey,
+
+I've recently been reading Oil 101(thank you very much for writing it; I've found it immensely helpful) and have come across a bit that's confusing me; on page 212 you describe DMC as most similar to Fuel Oil No.4, which makes sense since both are 20% Residual 80% diesel; while on pg 222 (table 9-23) you say Fuel Oil No.6 is similar to DMC.
+
+Looking at the ASTM D396 the SUS range at 100F is 45-125 vs. 900-9000 for No4 vs. No6 fuel oil, while 380 cSt at 50 C is ~1500; No6 is much closer to DMC in terms of viscosity.  What basis do you use for determining which is closer to DMC?
+
+Sincerely,
+Clark Benham
