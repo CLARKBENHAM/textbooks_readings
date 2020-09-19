@@ -1,0 +1,1 @@
+"pg. 134 writes c_1*f(x) < u < c_2*f(x) instead of c_1*f(b_i * x) < u < c_2*f(x)" 
