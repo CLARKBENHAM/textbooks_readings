@@ -1,1 +1,2 @@
 "pg. 134 writes c_1*f(x) < u < c_2*f(x) instead of c_1*f(b_i * x) < u < c_2*f(x)" 
+"pg 592 says finding min is O(1); but in proof doesn't include costs of resetting Heap.min to point to the next true min" 
