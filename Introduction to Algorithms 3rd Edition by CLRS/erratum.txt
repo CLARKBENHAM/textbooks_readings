@@ -1,1 +1,3 @@
 "pg. 134 writes c_1*f(x) < u < c_2*f(x) instead of c_1*f(b_i * x) < u < c_2*f(x)" 
+"pg. 528 when would need to get minimum but not modify it?" 
+"pg. 546" 
