@@ -1,3 +1,4 @@
 "pg. 134 writes c_1*f(x) < u < c_2*f(x) instead of c_1*f(b_i * x) < u < c_2*f(x)" 
 "pg. 528 when would need to get minimum but not modify it?" 
 "pg. 546" 
+"pg. 909 doesn't prove the first pivot of the modified L_aux form will produce a feasible basic solution. Would prove it as the most negative value of basic var is then being added to every other basic solution, so constants are >=0. eg. c = [1,1], A = I_2, b = [-2,-2], then would have x_3 = -2 - x_1 + x_0, x_4 = -2 - x_2 + x_0; x_0 = x_3 + 2  + x_1; x_4 = -2 - x_2 + x_3 + 2 + x_1" 
