@@ -1,0 +1,13 @@
+pg. 229 talks of how plotting z/x vs x can give a mechanistic tilted U shape; if z grows faster than x. This 'fake minium' happens if for g() =  z/x = f(x)/x
+g'(k-e) < 0 and g'(k+e) > 0
+g' = x*f'(x) - f(x)*1 / x**2
+0 = k*f'(k) - f(k) -> f'^{m}(k) = 0,
+So U shape appears for any convex function when plotted as a ratio.
+
+Seems wrong to call a mistake; for a fixed LOC to see what function size would minimize total faults would plot fn_LOC vs. Total Faults for fn_LOC * total_size / fn_LOC
+and the minimum re-emerges.
+
+I don't know what model of how programing is done when they say they want to see relationship between size and faults.
+It seems they are focused on psych of how much effort is spent on program correctness, not efficently solving probs; The paper K. El Emam, S. Benlarbi, N. Goel, W. Melo, H. Lounis, and S. N. Rai. "The optimal class size for object-oriented software" Fails in making same plots for mortality vs. Smoking and say plotting reprical(death/#smokes) gives this U shape; but in smoking context #smokes is independent variable, in fn_size total LOC is determined by problem, but fn_LOC is independent. Smoke U-Shape is showing death per cigarette; answers how to divide up N cigarettes amoung inf many people to minimize deaths.     
+
+
