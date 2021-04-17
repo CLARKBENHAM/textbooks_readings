@@ -11,3 +11,4 @@ I don't know what model of how programing is done when they say they want to see
 It seems they are focused on psych of how much effort is spent on program correctness, not efficently solving probs; The paper K. El Emam, S. Benlarbi, N. Goel, W. Melo, H. Lounis, and S. N. Rai. "The optimal class size for object-oriented software" Fails in making same plots for mortality vs. Smoking and say plotting reprical(death/#smokes) gives this U shape; but in smoking context #smokes is independent variable, in fn_size total LOC is determined by problem, but fn_LOC is independent. Smoke U-Shape is showing death per cigarette; answers how to divide up N cigarettes amoung inf many people to minimize deaths.     
 
 
+"pg 381 uses 9999 as example of an invalid number in the demonstration code but 999 in comment" 
